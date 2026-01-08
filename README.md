@@ -1,52 +1,52 @@
-# Bright Data Datacenter Proxies
+# Bright Data データセンタープロキシ
 
-[![Promo](https://github.com/luminati-io/Datacenter-Proxies/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/proxy-types/datacenter-proxies?promo=github15)
+[![Promo](https://github.com/luminati-io/Datacenter-Proxies/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/proxy-types/datacenter-proxies?promo=github15)
 
 ## Overview
-Leverage Bright Data's extensive [datacenter proxy network](https://brightdata.com/proxy-types/datacenter-proxies) with unmatched scale and speed for reliable data collection and web scraping.
+신뢰할 수 있는 데이터 수집과 Webスクレイピング을 위해, 탁월한 규모와 속도를 갖춘 Bright Data의 광범위한 [データセンタープロキシ network](https://brightdata.co.kr/proxy-types/datacenter-proxies)을 활용하십시오.
 
-- **770,000+ Datacenter IPs**
-- **[Shared](https://brightdata.com/solutions/shared-proxies) and [Dedicated](https://brightdata.com/solutions/dedicated-proxies) IP Options**
-- **~0.24s Average Response Time**
-- **HTTP(S) & [SOCKS5](https://brightdata.com/solutions/socks5-proxies) Support**
-- **Free Country-Level Targeting**
+- **770,000+ データセンター IPs**
+- **[Shared](https://brightdata.co.kr/solutions/shared-proxies) 및 [Dedicated](https://brightdata.co.kr/solutions/dedicated-proxies) IP 옵션**
+- **~0.24s 평균 レスポンス 시간**
+- **HTTP(S) 및 [SOCKS5](https://brightdata.co.kr/solutions/socks5-proxies) 지원**
+- **무료 국가 단위 타기팅**
 
 ## Key Features
-- **Global Reach**: Access datacenter IPs across [98 countries](https://brightdata.com/locations).
-- **High Success Rates**: Achieve up to 99.9% success in scraping tasks.
-- **Fast and Reliable**: 99.99% network uptime and rapid connection speeds.
-- **Customizable Options**: Choose between shared or dedicated IPs based on your needs.
-- **Unlimited Scaling**: Support for concurrent sessions without restrictions.
+- **Global Reach**: [98개 국가](https://brightdata.co.kr/locations)에 걸친 データセンター IPs에 액세스합니다.
+- **High Success Rates**: スクレイピング 작업에서 최대 99.9%의 성공률을 달성합니다.
+- **Fast and Reliable**: 99.99% 네트워크 가동 시간과 빠른 연결 속도를 제공합니다.
+- **Customizable Options**: 필요에 따라 shared 또는 dedicated IPs 중에서 선택합니다.
+- **Unlimited Scaling**: 제한 없이 동시 セッション을 지원합니다.
 
 ## Pricing Plans
-- **Pay As You Go**: $0.6/GB for a monthly commitment-free experience.
+- **Pay As You Go**: 월 약정 없이 $0.6/GB로 이용할 수 있습니다.
 - **Monthly Subscriptions - Shared**:
   - **10 IPs**: $1.40/IP, $14/month + VAT.
   - **100 IPs**: $1.00/IP, $100/month + VAT.
   - **500 IPs**: $0.95/IP, $475/month + VAT.
   - **1,000 IPs**: $0.90/IP, $900/month + VAT.
-  - **Enterprise Plans**: Tailored solutions for large-scale data collection.
+  - **Enterprise Plans**: 대규모 데이터 수집을 위한 맞춤형 솔루션입니다.
 
 - **Monthly Subscriptions - Dedicated**:
   - **10 IPs**: $2.20/IP, $22/month + VAT.
   - **100 IPs**: $1.70/IP, $170/month + VAT.
   - **500 IPs**: $1.50/IP, $750/month + VAT.
   - **1,000 IPs**: $1.30/IP, $1300/month + VAT.
-  - **Enterprise Plans**: Tailored solutions for large-scale data collection.
+  - **Enterprise Plans**: 대규모 데이터 수집을 위한 맞춤형 솔루션입니다.
 
 
 - **Monthly Subscriptions - Pay/GB**:
   - $0.51/GB, $499/month + VAT.
   - $0.45/GB, $999/month + VAT.
   - $0.42/GB, $1999/month + VAT.
-  - **Enterprise Plans**: Tailored solutions for large-scale data collection.
+  - **Enterprise Plans**: 대규모 데이터 수집을 위한 맞춤형 솔루션입니다.
 
-Sign up and get a dollar-for-dollar match on your first deposit, up to $500!
+가입하고 첫 입금에 대해 최대 $500까지 1달러당 1달러 매칭 혜택을 받으십시오!
 
 ## Getting Started with Datacenter Proxies
-1. **Start Free Trial**: No credit card required.
-2. **Integration**: Manage IPs and configurations with APIs or the Bright Data Control Panel.
-3. **Supported Languages**: Quick start guides available for Python, Java, C#, Node.js, and Shell.
+1. **Start Free Trial**: 신용카드 없이 시작할 수 있습니다.
+2. **Integration**: API 또는 Bright Data Control Panel을 통해 IPs 및 구성을 관리합니다.
+3. **Supported Languages**: Python, Java, C#, Node.js 및 Shell용 빠른 시작 가이드가 제공됩니다.
 
 ## Code Examples
 
@@ -133,38 +133,38 @@ curl --proxy brd.superproxy.io:22225 --proxy-user brd-customer-[your customerID]
 ```
 
 ## Integrations
-Our datacenter proxies are compatible with popular automation tools, including:
+당사의 データセンタープロキシ는 다음을 포함한 인기 자동화 도구와 호환됩니다:
 
-- [**Puppeteer**](https://brightdata.com/integration/puppeteer)
-- [**Selenium**](https://brightdata.com/integration/selenium)
-- [**Playwright**](https://brightdata.com/integration/playwright)
-- [**AdsPower**](https://brightdata.com/integration/adspower)
-- [**MultiLogin**](https://brightdata.com/integration/multilogin)
+- [**Puppeteer**](https://brightdata.co.kr/integration/puppeteer)
+- [**Selenium**](https://brightdata.co.kr/integration/selenium)
+- [**Playwright**](https://brightdata.co.kr/integration/playwright)
+- [**AdsPower**](https://brightdata.co.kr/integration/adspower)
+- [**MultiLogin**](https://brightdata.co.kr/integration/multilogin)
 
 ## Use Cases
-Common applications for datacenter proxies:
+データセンタープロキシ의 일반적인 활용 사례는 다음과 같습니다:
 
-- [**eCommerce**](https://brightdata.com/use-cases/ecommerce): Track pricing and product availability.
-- [**Social Media**](https://brightdata.com/use-cases/social-media-for-marketing): Monitor trends and engagement.
-- [**Real Estate**](https://brightdata.com/use-cases/real-estate): Collect data on property listings.
-- [**Travel**](https://brightdata.com/use-cases/travel): Compare travel deals across locations.
+- [**eCommerce**](https://brightdata.co.kr/use-cases/ecommerce): 가격 및 제품 재고 여부를 추적합니다.
+- [**Social Media**](https://brightdata.co.kr/use-cases/social-media-for-marketing): 트렌드 및 참여도를 모니터링합니다.
+- [**Real Estate**](https://brightdata.co.kr/use-cases/real-estate): 부동산 매물 데이터 수집을 수행합니다.
+- [**Travel**](https://brightdata.co.kr/use-cases/travel): 지역별 여행 상품을 비교합니다.
 
 ## FAQ
 
 ### What is a Datacenter Proxy?
-Datacenter proxies provide IPs assigned to servers, allowing you to change your IP and location for web scraping and other use cases.
+データセンタープロキシ는 서버에 할당된 IPs를 제공하여, Webスクレイピング 및 기타 사용 사례를 위해 IPアドレス와 위치를 변경할 수 있도록 합니다.
 
 ### What are the advantages of Datacenter Proxies?
-Datacenter proxies are fast and cost-effective, ideal for simple data collection tasks, account management, and bypassing basic geo-restrictions.
+データセンタープロキシ는 빠르고 비용 효율적이며, 간단한 데이터 수집 작업, 계정 관리, 기본적인 지리적 제한 우회에 이상적입니다.
 
 ### How are Datacenter Proxies used by businesses?
-From competitive analysis to digital asset protection, datacenter proxies support a wide range of tasks across various industries.
+경쟁 분석부터 디지털 자산 보호까지, データセンタープロキシ는 다양한 산업 전반에서 폭넓은 작업을 지원합니다.
 
 ### Where are Bright Data's Datacenter Proxies located?
-Our proxies span 98 global locations, with high IP counts in the [USA](https://brightdata.com/locations/united-states), [Canada](https://brightdata.com/locations/ca), [UK](https://brightdata.com/locations/gb), [Germany](https://brightdata.com/locations/de), and [France](https://brightdata.com/locations/fr).
+당사의 プロキシ는 전 세계 98개 지오ロ케ーション에 걸쳐 있으며, [USA](https://brightdata.co.kr/locations/united-states), [Canada](https://brightdata.co.kr/locations/ca), [UK](https://brightdata.co.kr/locations/gb), [Germany](https://brightdata.co.kr/locations/de), [France](https://brightdata.co.kr/locations/fr)에서 높은 IP 수를 제공합니다.
 
 ### Are Datacenter Proxies fast?
-Yes, with minimal routing, datacenter proxies offer fast connections, making them optimal for time-sensitive applications.
+예, 최소한의 라우팅으로 データセンタープロキシ는 빠른 연결을 제공하므로, 시간 민감형 애플리케이션에 최적입니다.
 
 ### Should I use shared or dedicated Datacenter Proxies?
-Use dedicated proxies for exclusive access or shared proxies for cost-effective solutions to common scraping and testing tasks.
+독점적 사용이 필요하면 dedicated プロキシ를 사용하시고, 일반적인 スクレイピング 및 테스트 작업을 비용 효율적으로 수행하려면 shared プロキシ를 사용하십시오.
