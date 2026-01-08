@@ -1,6 +1,6 @@
 # Bright Data データセンタープロキシ
 
-[![Promo](https://github.com/luminati-io/Datacenter-Proxies/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/proxy-types/datacenter-proxies?promo=github15)
+[![Promo](https://github.com/bright-kr/Datacenter-Proxies/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/proxy-types/datacenter-proxies?promo=github15)
 
 ## Overview
 신뢰할 수 있는 데이터 수집과 Webスクレイピング을 위해, 탁월한 규모와 속도를 갖춘 Bright Data의 광범위한 [データセンタープロキシ network](https://brightdata.co.kr/proxy-types/datacenter-proxies)을 활용하십시오.
