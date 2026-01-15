@@ -1,22 +1,22 @@
-# Bright Data データセンタープロキシ
+# Bright Data データセンター프록시
 
 [![Promo](https://github.com/bright-kr/Datacenter-Proxies/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/proxy-types/datacenter-proxies?promo=github15)
 
 ## Overview
-신뢰할 수 있는 데이터 수집과 Webスクレイピング을 위해, 탁월한 규모와 속도를 갖춘 Bright Data의 광범위한 [データセンタープロキシ network](https://brightdata.co.kr/proxy-types/datacenter-proxies)을 활용하십시오.
+신뢰할 수 있는 데이터 수집과 Web스크레이핑을 위해, 탁월한 규모와 속도를 갖춘 Bright Data의 광범위한 [データセンター프록시 network](https://brightdata.co.kr/proxy-types/datacenter-proxies)을 활용하십시오.
 
 - **770,000+ データセンター IPs**
 - **[Shared](https://brightdata.co.kr/solutions/shared-proxies) 및 [Dedicated](https://brightdata.co.kr/solutions/dedicated-proxies) IP 옵션**
-- **~0.24s 평균 レスポンス 시간**
+- **~0.24s 평균 응답 시간**
 - **HTTP(S) 및 [SOCKS5](https://brightdata.co.kr/solutions/socks5-proxies) 지원**
 - **무료 국가 단위 타기팅**
 
 ## Key Features
 - **Global Reach**: [98개 국가](https://brightdata.co.kr/locations)에 걸친 データセンター IPs에 액세스합니다.
-- **High Success Rates**: スクレイピング 작업에서 최대 99.9%의 성공률을 달성합니다.
+- **High Success Rates**: 스크레이핑 작업에서 최대 99.9%의 성공률을 달성합니다.
 - **Fast and Reliable**: 99.99% 네트워크 가동 시간과 빠른 연결 속도를 제공합니다.
 - **Customizable Options**: 필요에 따라 shared 또는 dedicated IPs 중에서 선택합니다.
-- **Unlimited Scaling**: 제한 없이 동시 セッション을 지원합니다.
+- **Unlimited Scaling**: 제한 없이 동시 세션을 지원합니다.
 
 ## Pricing Plans
 - **Pay As You Go**: 월 약정 없이 $0.6/GB로 이용할 수 있습니다.
@@ -133,7 +133,7 @@ curl --proxy brd.superproxy.io:22225 --proxy-user brd-customer-[your customerID]
 ```
 
 ## Integrations
-당사의 データセンタープロキシ는 다음을 포함한 인기 자동화 도구와 호환됩니다:
+당사의 データセンター프록시는 다음을 포함한 인기 자동화 도구와 호환됩니다:
 
 - [**Puppeteer**](https://brightdata.co.kr/integration/puppeteer)
 - [**Selenium**](https://brightdata.co.kr/integration/selenium)
@@ -142,7 +142,7 @@ curl --proxy brd.superproxy.io:22225 --proxy-user brd-customer-[your customerID]
 - [**MultiLogin**](https://brightdata.co.kr/integration/multilogin)
 
 ## Use Cases
-データセンタープロキシ의 일반적인 활용 사례는 다음과 같습니다:
+データセンター프록시의 일반적인 활용 사례는 다음과 같습니다:
 
 - [**eCommerce**](https://brightdata.co.kr/use-cases/ecommerce): 가격 및 제품 재고 여부를 추적합니다.
 - [**Social Media**](https://brightdata.co.kr/use-cases/social-media-for-marketing): 트렌드 및 참여도를 모니터링합니다.
@@ -152,19 +152,19 @@ curl --proxy brd.superproxy.io:22225 --proxy-user brd-customer-[your customerID]
 ## FAQ
 
 ### What is a Datacenter Proxy?
-データセンタープロキシ는 서버에 할당된 IPs를 제공하여, Webスクレイピング 및 기타 사용 사례를 위해 IPアドレス와 위치를 변경할 수 있도록 합니다.
+データセンター프록시는 서버에 할당된 IPs를 제공하여, Web스크레이핑 및 기타 사용 사례를 위해 IP 주소와 위치를 변경할 수 있도록 합니다.
 
 ### What are the advantages of Datacenter Proxies?
-データセンタープロキシ는 빠르고 비용 효율적이며, 간단한 데이터 수집 작업, 계정 관리, 기본적인 지리적 제한 우회에 이상적입니다.
+データセンター프록시는 빠르고 비용 효율적이며, 간단한 데이터 수집 작업, 계정 관리, 기본적인 지리적 제한 우회에 이상적입니다.
 
 ### How are Datacenter Proxies used by businesses?
-경쟁 분석부터 디지털 자산 보호까지, データセンタープロキシ는 다양한 산업 전반에서 폭넓은 작업을 지원합니다.
+경쟁 분석부터 디지털 자산 보호까지, データセンター프록시는 다양한 산업 전반에서 폭넓은 작업을 지원합니다.
 
 ### Where are Bright Data's Datacenter Proxies located?
-당사의 プロキシ는 전 세계 98개 지오ロ케ーション에 걸쳐 있으며, [USA](https://brightdata.co.kr/locations/united-states), [Canada](https://brightdata.co.kr/locations/ca), [UK](https://brightdata.co.kr/locations/gb), [Germany](https://brightdata.co.kr/locations/de), [France](https://brightdata.co.kr/locations/fr)에서 높은 IP 수를 제공합니다.
+당사의 프록시는 전 세계 98개 지오ロ케ーション에 걸쳐 있으며, [USA](https://brightdata.co.kr/locations/united-states), [Canada](https://brightdata.co.kr/locations/ca), [UK](https://brightdata.co.kr/locations/gb), [Germany](https://brightdata.co.kr/locations/de), [France](https://brightdata.co.kr/locations/fr)에서 높은 IP 수를 제공합니다.
 
 ### Are Datacenter Proxies fast?
-예, 최소한의 라우팅으로 データセンタープロキシ는 빠른 연결을 제공하므로, 시간 민감형 애플리케이션에 최적입니다.
+예, 최소한의 라우팅으로 データセンター프록시는 빠른 연결을 제공하므로, 시간 민감형 애플리케이션에 최적입니다.
 
 ### Should I use shared or dedicated Datacenter Proxies?
-독점적 사용이 필요하면 dedicated プロキシ를 사용하시고, 일반적인 スクレイピング 및 테스트 작업을 비용 효율적으로 수행하려면 shared プロキシ를 사용하십시오.
+독점적 사용이 필요하면 dedicated 프록시를 사용하시고, 일반적인 스크레이핑 및 테스트 작업을 비용 효율적으로 수행하려면 shared 프록시를 사용하십시오.
